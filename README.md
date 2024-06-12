@@ -26,6 +26,7 @@ The proposed algorithm. (a) Stage-1: optimal augmentation view selection. (b) St
 ## Results
 
 ![Alt text](figs/uncertainty_accuracy_table.png)
+
 Minimum vs. optimized threshold results across uncertainty metrics, datasets, and models.
 
 ## Questions?
