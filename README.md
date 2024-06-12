@@ -6,7 +6,7 @@ Work conducted at OLIVES@GaTech. Arxiv paper available at ....
 
 Official code repository for the paper: E. Ozturk, M. Prabhushankar, and G. AlRegib, "Intelligent Multi-View Test Time Augmentation," submitted to IEEE International Conference on Image Processing (ICIP), Feb. 11, 2024.
 
-![Alt text](figs/algorithm.jpg)
+![Alt text](figs/algorithm.png)
 
 ## Abstract
 
