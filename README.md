@@ -17,10 +17,16 @@ In this study, we introduce an intelligent Test Time Augmentation (TTA) algorith
 The proposed algorithm. (a) Stage-1: optimal augmentation view selection. (b) Stage-2: uncertainty assessment.
 
 ## Notebooks 
+
 "notebooks" folder contains jupyter notebook scripts used for generating the results in the paper:
 - CURE_OR_Experiments is the script for generating the results for the CURE-OR dataset.
 - FacePix_Experiments is the script for generating the results for the FacePix dataset.
 - MRI_Experiments is the script for generating the results for the MRI dataset.
+
+## Results
+
+![Alt text](figs/uncertainty_accuracy_table.png)
+Minimum vs. optimized threshold results across uncertainty metrics, datasets, and models.
 
 ## Questions?
 
